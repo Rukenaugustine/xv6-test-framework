@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 報告和日誌
+reports/
+logs/
+*.log
+
+# xv6 編譯產物
+xv6-riscv/kernel/
+xv6-riscv/user/
+xv6-riscv/fs.img
